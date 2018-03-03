@@ -1,0 +1,5 @@
+name: Am I a Doc?
+desc: 
+notes: 
+points: 
+flag: FLAG{image_can_be_document}

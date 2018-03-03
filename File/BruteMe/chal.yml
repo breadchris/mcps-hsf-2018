@@ -1,0 +1,5 @@
+name: Brute Me
+desc: 
+notes: Brute force zip file password (zip --password turkey encrypted.zip flag.txt)
+points: 
+flag: flag{lol_all_3ncrypted_up_in_her}
